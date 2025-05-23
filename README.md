@@ -44,7 +44,7 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 For any questions, suggestions, or collaboration inquiries, please feel free to reach out to me via email. I appreciate feedback and am open to discussion.
 
 **Ha-Phuoc-Trong NGUYEN (ptrong893)**  
-Bachelor of Finance and Banking (Applied Finance)  
+Bachelor of Finance and Banking (Applied Finance) with Honours
 International School of Business – UEH University  
 📧 nhp.trong893@gmail.com  
 *...we all looked at the same moon...*
