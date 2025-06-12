@@ -2,7 +2,7 @@
 
 ## Overview
 **UEH-ISB-FIN** is my personal portfolio repository, created to showcase my academic and business projects in finance.  
-I am **Ha-Phuoc-Trong NGUYEN**, a **Honours Bachelor of Finance and Banking (Applied Finance)** at the International School of Business - UEH University, HCMC.  
+I am **Ha-Phuoc-Trong NGUYEN**, a **Honours Bachelor of Finance and Banking (Applied Finance)** at the **International School of Business - UEH University**, HCMC.  
 This repository demonstrates my skills and accomplishments in finance and analysis and is intended to be linked to my résumé as proof of my capabilities.
 
 This repository contains selected **academic research papers** and **business-related projects** that I completed during my studies. These works span various areas of finance and business analysis, reflecting my interests in quantitative finance, corporate finance, risk management, and sustainable finance. By sharing these projects, I hope to provide insight into my analytical approach, research experience, and understanding of real-world financial issues.
